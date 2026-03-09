@@ -7,20 +7,17 @@ SSEA systems engineering paper files
 ### Operational Analysis
 ![Diagram 1](images/01.png)
 
-## System Architecture Diagrams
 ### System Analysis
 ![Diagram 2](images/02.jpeg)
 
-## System Architecture Diagrams
-### Logical Architecture
+### Logical Architecture before Logical Decomposition
 ![Diagram 3](images/03.jpeg)
 
-## System Architecture Diagrams
-### Physical Architecture
+### Logical Architecture after Logical Decomposition
 ![Diagram 4](images/04.jpeg)
 
-## System Architecture Diagrams
+### Physical Architecture
 ![Diagram 5](images/05.jpeg)
 
-## System Architecture Diagrams
+### Physical Architecture with Requirement Allocation
 ![Diagram 6](images/06.jpeg)
