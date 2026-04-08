@@ -1,4 +1,10 @@
 # Retrofire System Architecture - MBSE using Capella and ARCADIA
+Disclaimer: The Model depicted below is intended to provide inspiration and may not represent the current true Architecutre of WARR Rocketry's Project Retrofire.
+## Framework - 
+### Operational Analysis - Operational Entities, Operational Capabilities, Operational Architecture
+### System Analysis - Mission Breakdown, Capability Scenario Definition using System Functions
+### Logical Architecture - System Function Breakdown to Logical Functions, Logical Architecture 
+### Physical Architecture - Assigning Physical Elements to Logical Processes
 
 SSEA systems engineering paper files
 
